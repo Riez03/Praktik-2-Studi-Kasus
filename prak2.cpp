@@ -1,5 +1,6 @@
 //Galang Pakusadewa 2100018406
 //Fahrizky Syihabudin Ibrahim 2100018411
+//Arya Budiman 2100018408
 
 #include<iostream>
 #include<fstream>
